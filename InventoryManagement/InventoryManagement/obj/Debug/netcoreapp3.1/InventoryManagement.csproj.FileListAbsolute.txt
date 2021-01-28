@@ -1,0 +1,12 @@
+/Users/antonio/Desktop/CS133/InventoryManagement/InventoryManagement/bin/Debug/netcoreapp3.1/InventoryManagement.deps.json
+/Users/antonio/Desktop/CS133/InventoryManagement/InventoryManagement/bin/Debug/netcoreapp3.1/InventoryManagement.runtimeconfig.json
+/Users/antonio/Desktop/CS133/InventoryManagement/InventoryManagement/bin/Debug/netcoreapp3.1/InventoryManagement.runtimeconfig.dev.json
+/Users/antonio/Desktop/CS133/InventoryManagement/InventoryManagement/bin/Debug/netcoreapp3.1/InventoryManagement.dll
+/Users/antonio/Desktop/CS133/InventoryManagement/InventoryManagement/bin/Debug/netcoreapp3.1/InventoryManagement.pdb
+/Users/antonio/Desktop/CS133/InventoryManagement/InventoryManagement/obj/Debug/netcoreapp3.1/InventoryManagement.csprojAssemblyReference.cache
+/Users/antonio/Desktop/CS133/InventoryManagement/InventoryManagement/obj/Debug/netcoreapp3.1/InventoryManagement.AssemblyInfoInputs.cache
+/Users/antonio/Desktop/CS133/InventoryManagement/InventoryManagement/obj/Debug/netcoreapp3.1/InventoryManagement.AssemblyInfo.cs
+/Users/antonio/Desktop/CS133/InventoryManagement/InventoryManagement/obj/Debug/netcoreapp3.1/InventoryManagement.csproj.CoreCompileInputs.cache
+/Users/antonio/Desktop/CS133/InventoryManagement/InventoryManagement/obj/Debug/netcoreapp3.1/InventoryManagement.dll
+/Users/antonio/Desktop/CS133/InventoryManagement/InventoryManagement/obj/Debug/netcoreapp3.1/InventoryManagement.pdb
+/Users/antonio/Desktop/CS133/InventoryManagement/InventoryManagement/obj/Debug/netcoreapp3.1/InventoryManagement.genruntimeconfig.cache
